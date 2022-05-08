@@ -1,8 +1,8 @@
 # Theory-of-algorthims
- Introduction:
+ Introduction: <br>
   This is the CA for Theory of algorithms moudle with GMIT. This project cotains 2 note books and seperate folders with relation too class and rought work.
  
- NoteBooks:
+ NoteBooks:<br>
   The first note book is BoundedPost.ipynb which looks at the Post-Correspondence problem, decidable vs un-decicdable problems and defintions an explenations on
   the theory of un-decidable problems.
  
@@ -10,11 +10,11 @@
   an explenation of said game, its complexity and unfished solution based on the functional programming paradigm and explenations as too what makes the code
   functional.
  
- Requirements
+ Requirements <br>
   anaconda Command line client (version 1.7.2)
   jupyter (versioning handled by anaconda)
   
- Running the notebooks
+ Running the notebooks<br>
   Clone this repo https://github.com/swordslinger/Theory-of-algorthims using the command line
     "git clone https://github.com/swordslinger/Theory-of-algorthims"
    
